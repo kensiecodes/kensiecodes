@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kensiecodes
 - 👀 I’m interested in video games, data analysis, developmental psychology, illustration, and programming.
-- 🌱 I’m currently learning Java, Ruby, and CSS. 
+- 🌱 I’m currently learning: Javascript.
 - 💞️ I’m looking to collaborate on learning to code!
 - 📫 How to reach me : kensiejack1@gmail.com
 
