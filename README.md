@@ -6,7 +6,7 @@
 
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,java,c,kotlin,nodejs,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,java,c,nodejs,&theme=light)](https://skillicons.dev)
 
 ## Design
 
