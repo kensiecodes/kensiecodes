@@ -16,8 +16,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=bash,discord,git,github,linux,netlify,postman,eclipse,vscode&theme=light)](https://skillicons.dev)
 
-## IDES
-
 
 <!---
 kensiecodes/kensiecodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
