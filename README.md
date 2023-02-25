@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kensiecodes
 - 👀 I’m interested in video games, AI, data analysis, developmental psychology, illustration, and programming.
 - 🌱 I’m currently learning: node.js.
-- 💞️ I’m looking to collaborate on learning to OOP, open source, or doing a group project! Let me know if you need help with your project.
+- 💞️ I’m looking to collaborate on deeply learning OOP, open source, or doing a group project! Let me know if you need help with your project.
 - 📫 Get in touch : kensiejack1@gmail.com
 
 ## Languages
