@@ -1,8 +1,23 @@
 - 👋 Hi, I’m @kensiecodes
-- 👀 I’m interested in video games, data analysis, developmental psychology, illustration, and programming.
-- 🌱 I’m currently learning: node.js
-- 💞️ I’m looking to collaborate on learning to code!
-- 📫 How to reach me : kensiejack1@gmail.com
+- 👀 I’m interested in video games, AI, data analysis, developmental psychology, illustration, and programming.
+- 🌱 I’m currently learning: node.js.
+- 💞️ I’m looking to collaborate on learning to OOP, open source, or doing a group project! Let me know if you need help with your project.
+- 📫 Get in touch : kensiejack1@gmail.com
+
+## Languages
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,java,c,kotlin,nodejs,&theme=light)](https://skillicons.dev)
+
+## Design
+
+[![My Skills](https://skillicons.dev/icons?i=css,html,figma,ps&theme=light)](https://skillicons.dev)
+
+## Other Skills
+
+[![My Skills](https://skillicons.dev/icons?i=bash,discord,git,github,linux,netlify,postman,eclipse,vscode&theme=light)](https://skillicons.dev)
+
+## IDES
+
 
 <!---
 kensiecodes/kensiecodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
