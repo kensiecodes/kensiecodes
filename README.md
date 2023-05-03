@@ -8,11 +8,14 @@
 
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,java,c,nodejs,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,java,c&theme=light)](https://skillicons.dev)
 
 ## Design
 
 [![My Skills](https://skillicons.dev/icons?i=css,html,figma,ps&theme=light)](https://skillicons.dev)
+
+## Frameworks
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs,tailwind,vite&theme=light)](https://skillicons.dev)
 
 ## Other Skills
 
