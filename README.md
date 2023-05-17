@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @kensiecodes
 - 👀 I’m interested in video games, design, SEO and marketing, illustration, and programming.
-- 🌱 I’m currently learning: node.js.
+- 🌱 I’m currently learning: databases, Java
 - 💞️ I’m looking to collaborate on open source or a group project! Get in touch!
 - 📫 Get in touch : kensiejack1@gmail.com
 
