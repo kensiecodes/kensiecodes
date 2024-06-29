@@ -1,9 +1,9 @@
 ![Banner](https://pbs.twimg.com/profile_banners/1621348883195371522/1677358287/1500x500)
 
 - 👋 Hi, I’m @kensiecodes
-- 👀 I’m interested in video games, design, SEO and marketing, illustration, and programming.
-- 🌱 I’m currently learning: databases, Java
-- 💞️ I’m looking to collaborate on open source or a group project! Get in touch!
+- 👀 I’m interested in video games, web design, gardening, and illustration.
+- 🌱 I’m currently learning: Python, Advanced React concepts
+- 💞️ I’m looking to collaborate on open source codebases or a group project! Get in touch!
 - 📫 Get in touch : kensiejack1@gmail.com
 
 ## Languages
